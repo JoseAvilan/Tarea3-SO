@@ -1,10 +1,3 @@
-# Tarea3-SO
-/* p}Para compilar usar: gcc -o Semaforos Semaforos.c -lpthread */
-## Caso inicial con 6 valores ingresados por consola.
-## Indicar: Capacidad de almacen, Rondas, Demora minima del productor, Demora maxima del productor, Demora minima del consumidor y Demora maxima del consumidor.
-## 
-
-
 # Tarea 3 - Sistemas Operativos
 Manejo de pantalla en modalidad texto con bibliotecas de hebras de control.
 Programa desarrollado en C, junto al uso de módulos e interfaz gráfica.
