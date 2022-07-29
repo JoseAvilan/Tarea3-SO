@@ -1,4 +1,19 @@
-#include <pthread.h>
+/*######################### Descripción del proyecto: #########################
+#   Programa en C que simula cajas registradoras.
+#   Descipción:
+#    - Se creará un programa que simule cajas registradoras con una velocidad para su respectiva cinta magnética, junto a la produccion de clientes 
+#       y productos a utilizar, junto al consumo de los productos por parte de los cajeros.
+#    - Código desarrollado mediante metodología de programación modular, con el objetivo de reutilizar bibliotecas de funciones y/o métodos.
+#    - Versión: 0.1 (Prueba y demostración)
+#
+#   Autores:
+#       - José Avilán (https://github.com/JoseAvilan)
+#       - Franco Avilés (https://github.com/FrancoAv1)
+#
+#   Licencia:
+#       - Julio 2022. Apache 2.0.
+#
+###########################################################################################################*/#include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
 #include <stdlib.h>
